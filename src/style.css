@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.contenedor {
+  background-color: white;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.laExcusa {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+}
